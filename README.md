@@ -5,6 +5,8 @@
 
 A basic social network api built with MongoDB and mongoose
 
+Video Demo: https://watch.screencastify.com/v/G8Q0AIcDs9FqdttlE2jV
+
 ## Table of Contents
 
 - [Installation](#installation)
